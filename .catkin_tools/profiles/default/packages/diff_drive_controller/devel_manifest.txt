@@ -1,0 +1,13 @@
+ros_controllers/diff_drive_controller
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/cmake.lock /home/duncan/tiago_public_ws/devel/./cmake.lock
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/include/diff_drive_controller/DiffDriveControllerConfig.h /home/duncan/tiago_public_ws/devel/include/diff_drive_controller/DiffDriveControllerConfig.h
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake /home/duncan/tiago_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake /home/duncan/tiago_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/docs/DiffDriveControllerConfig.wikidoc /home/duncan/tiago_public_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig.wikidoc
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/docs/DiffDriveControllerConfig.dox /home/duncan/tiago_public_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig.dox
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/docs/DiffDriveControllerConfig-usage.dox /home/duncan/tiago_public_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig-usage.dox
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/lib/libdiff_drive_controller.so /home/duncan/tiago_public_ws/devel/lib/libdiff_drive_controller.so
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/lib/python2.7/dist-packages/diff_drive_controller/__init__.py /home/duncan/tiago_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/__init__.py
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/lib/python2.7/dist-packages/diff_drive_controller/cfg/__init__.py /home/duncan/tiago_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/cfg/__init__.py
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/lib/python2.7/dist-packages/diff_drive_controller/cfg/DiffDriveControllerConfig.py /home/duncan/tiago_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/cfg/DiffDriveControllerConfig.py
+/home/duncan/tiago_public_ws/devel/.private/diff_drive_controller/lib/pkgconfig/diff_drive_controller.pc /home/duncan/tiago_public_ws/devel/lib/pkgconfig/diff_drive_controller.pc

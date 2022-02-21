@@ -1,0 +1,8 @@
+prefix=/home/duncan/tiago_public_ws/install
+
+Name: tiago_gazebo
+Description: Description of tiago_gazebo
+Version: 2.2.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
